@@ -11,10 +11,19 @@ title was calculated. The topic and title with the highest confidence score was 
 
 The last method used was the Chat GPT API, where it was prompted to categorize the thesis titles into people and thing-related. About a quarter of the labels were compared with manually created labels and the API categorization was deemed accurate. The results were then compared between the genders. This process revealed that 10% of the female students and 4,01% of the male students had people-related thesis titles. So even though more female students preferred a thesis in the thing-realm, the majority of both genders still had thing-related thesis titles. Over the years, for both genders the percentage of people-related titles slightly increased. The increase was steeper with the female students.
 
-# How to navigate in the repository:
-First information: In the folders you will find excel sheets with the names fake_*.xlsx. These sheets are created for uploading on GITHUB, so you can try the code. The entries are fake. Most of them have 10 entries.
 
-## Bachelor's Thesis: main folder, go inside.
+(1) _Richard Lippa. “Gender-related individual differences and the structure of vocational interests: The importance of the people–things dimension”. English. In: Journal of Personality and Social Psychology: Personality -Processes and Individual Differences 74.4 (Apr. 1998). Copyright - © 1998, American Psychological Association. All rights, including for text and data mining, AI training, and similar technologies, are reserved; Datum  Beendigung - 1997-05-19; Datum Erstellung - 1996-06-10; Datum Revision - 19980501; 20060710; Anzahl der Quellenangaben - 51, pp. 996–1009. url: https://www.proquest.com/scholarly- journals/genderrelated-individual-differencesstructure/docview/614360100/se-2._
+
+(2) _Melissa Høegh Marcher et al. “Computing Educational Activities Involving People Rather Than Things Appeal More to Women (CS1 Appeal Perspective)”. In: Proceedings of the 17th ACM Conference on International Computing Education Research 44 1 (2021), p. 0. doi: 10.1145/3446871.3469761_
+
+
+# How to navigate in the repository:
+First information: 
+In the folders you will find excel sheets with the names fake_*.xlsx. These sheets are created for uploading on GITHUB, so you can try the code. The entries are fake. Most of them have 10 entries.
+
+## Bachelor's Thesis: 
+Main folder, go inside.
+
 ## BERTopic:
 Contains the code BERTOPIC.py used for the first method and a fake_dataset.xlsx.
 
@@ -41,10 +50,6 @@ Contains the code translate_titles.py used to translate the thesis title names i
 
 
 
-
-(1) _Richard Lippa. “Gender-related individual differences and the structure of vocational interests: The importance of the people–things dimension”. English. In: Journal of Personality and Social Psychology: Personality -Processes and Individual Differences 74.4 (Apr. 1998). Copyright - © 1998, American Psychological Association. All rights, including for text and data mining, AI training, and similar technologies, are reserved; Datum  Beendigung - 1997-05-19; Datum Erstellung - 1996-06-10; Datum Revision - 19980501; 20060710; Anzahl der Quellenangaben - 51, pp. 996–1009. url: https://www.proquest.com/scholarly- journals/genderrelated-individual-differencesstructure/docview/614360100/se-2._
-
-(2) _Melissa Høegh Marcher et al. “Computing Educational Activities Involving People Rather Than Things Appeal More to Women (CS1 Appeal Perspective)”. In: Proceedings of the 17th ACM Conference on International Computing Education Research 44 1 (2021), p. 0. doi: 10.1145/3446871.3469761_
 
 
 
